@@ -1,0 +1,2 @@
+For a disclaimer about content on your page. You can use HTML here.
+Following replacements are available: {cookieHelpUrl}, {imprintHelpUrl}, {privacyHelpUrl}, {tosUrl}, {contactUrl}, {boardTitle}, {boardUrl} and {cookiePrefix}.

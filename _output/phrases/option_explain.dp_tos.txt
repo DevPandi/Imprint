@@ -1,0 +1,1 @@
+Helps you to write a Terms of Service without editing language phrases. You can use <b>HTML</b> here.<br> Following replacements are available: <i>{cookieHelpUrl}</i>, <i>{imprintHelpUrl}</i>, <i>{privacyHelpUrl}</i>, <i>{tosUrl}</i>, <i>{contactUrl}</i>, <i>{boardTitle}</i>, <i>{boardUrl}</i> and <i>{cookiePrefix}</i>.

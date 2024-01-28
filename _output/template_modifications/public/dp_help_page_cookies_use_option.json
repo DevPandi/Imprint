@@ -1,0 +1,9 @@
+{
+    "template": "_help_page_cookies",
+    "description": "Use options from [DevPandi] Imprint for cookie help page.",
+    "execution_order": 10,
+    "enabled": true,
+    "action": "str_replace",
+    "find": "{{ phrase('help_cookies_description', {'cookiePrefix': $xf.cookie.prefix}) }}",
+    "replace": "<xf:if is=\"$xf.options.dp_cookie_notice\">\n\t{{ $xf.options.dp_cookie_notice|dp_render }}\n<xf:else/>\n\t{{ phrase('help_cookies_description', {'cookiePrefix': $xf.cookie.prefix}) }}\n</xf:if>"
+}

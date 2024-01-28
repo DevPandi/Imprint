@@ -1,0 +1,9 @@
+{
+    "template": "_help_page_terms",
+    "description": "Use options from [DevPandi] Imprint for tos page.",
+    "execution_order": 10,
+    "enabled": true,
+    "action": "str_replace",
+    "find": "{{ phrase('terms_rules_text', {'age': $xf.options.registrationSetup.minimumAge ?: 13, 'contactUrl': $xf.contactUrl}) }}",
+    "replace": "<xf:if is=\"$xf.options.dp_tos\">\n\t{{ $xf.options.dp_tos|dp_render }}\n\t<xf:else/>\n\t{{ phrase('terms_rules_text', {'age': $xf.options.registrationSetup.minimumAge ?: 13, 'contactUrl': $xf.contactUrl}) }}\n</xf:if>"
+}

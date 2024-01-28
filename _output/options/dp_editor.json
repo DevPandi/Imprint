@@ -1,0 +1,16 @@
+{
+    "edit_format": "onofftextbox",
+    "edit_format_params": "onoff=show\nvalue=name\nplaceholder={{ phrase('ti_chief_editor') }}",
+    "data_type": "array",
+    "sub_options": [
+        "show",
+        "name"
+    ],
+    "validation_class": "",
+    "validation_method": "",
+    "advanced": false,
+    "default_value": "{\"show\":\"0\",\"name\":\"\"}",
+    "relations": {
+        "dp_imprint": 400
+    }
+}

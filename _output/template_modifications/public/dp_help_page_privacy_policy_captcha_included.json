@@ -1,0 +1,9 @@
+{
+    "template": "_help_page_privacy_policy",
+    "description": "Option in [DevPandi] Imprint deactivates captacha privacy text.",
+    "execution_order": 10,
+    "enabled": true,
+    "action": "str_replace",
+    "find": "<xf:if is=\"$captcha\">",
+    "replace": "<xf:if is=\"$captcha && !$xf.options.dp_captcha_included\">"
+}

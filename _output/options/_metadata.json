@@ -1,0 +1,86 @@
+{
+    "db_name_addition.json": {
+        "hash": "f46445be912d73902e294ff03d050b4e"
+    },
+    "dp_address.json": {
+        "hash": "32338f30042ec634a69738350e7a4f13"
+    },
+    "dp_address_addition.json": {
+        "hash": "2518d7e163157dad497e0a142fe922f9"
+    },
+    "dp_captcha_included.json": {
+        "hash": "23af7ee6b04dcdf1282c0df317d0d75c"
+    },
+    "dp_ceo.json": {
+        "hash": "5c853da1b3286c9763d60845b7259c4b"
+    },
+    "dp_city.json": {
+        "hash": "e944059ad17b6a26c7d934e8f508f23e"
+    },
+    "dp_company_register.json": {
+        "hash": "0d3d4fcf500b95f8e86374abed2b7f9d"
+    },
+    "dp_cookie_notice.json": {
+        "hash": "5d71a45c8fd75aa001cdcf5d0fce9a2b"
+    },
+    "dp_copyright_information.json": {
+        "hash": "dc4c7e20c1dda61b8daa9fbb80bc2912"
+    },
+    "dp_country.json": {
+        "hash": "65890c52bc3e3590b991210a27926cb8"
+    },
+    "dp_disclaimer_contents.json": {
+        "hash": "e92717333a16fee7b8f4c73bb2474514"
+    },
+    "dp_disclaimer_links.json": {
+        "hash": "3ca5fd0d4605f36c805e19054f407cf8"
+    },
+    "dp_editor.json": {
+        "hash": "8ef1620bad393e6e9fa962431d9d9c9e"
+    },
+    "dp_editor_addition.json": {
+        "hash": "a169262e28491b04d59a4d7e0963b4e8"
+    },
+    "dp_editor_adress.json": {
+        "hash": "bffd08231b9b072ebffb3b497f04d2e8"
+    },
+    "dp_editor_city.json": {
+        "hash": "cdac459d7f353482389fbd770cab01ff"
+    },
+    "dp_editor_county.json": {
+        "hash": "9db83d09f1e02589d6316c5743fdbced"
+    },
+    "dp_editor_own_adress.json": {
+        "hash": "c9da0f475a6d5e5efb97ad137a73e52d"
+    },
+    "dp_editor_postalcode.json": {
+        "hash": "d6d8b5f05e3927a3942ca07408bcefcf"
+    },
+    "dp_email.json": {
+        "hash": "b1bff1e9266f753cdec9df36a298106f"
+    },
+    "dp_fax.json": {
+        "hash": "a206c43396006ef2d334980cb7f0a1f3"
+    },
+    "dp_name.json": {
+        "hash": "38d4181e8d53c145d0574d602e198cf6"
+    },
+    "dp_phone.json": {
+        "hash": "17f7e552046a582d44cc23b683cabd7f"
+    },
+    "dp_postalcode.json": {
+        "hash": "61ed67a5b3d2a30e149dd8780c5a5da5"
+    },
+    "dp_privacy_notice.json": {
+        "hash": "10a6bc5339daeb6b9f98ba78f7d90f53"
+    },
+    "dp_tmg.json": {
+        "hash": "f18f8627d36fd942a8708b5137334a4e"
+    },
+    "dp_tos.json": {
+        "hash": "410453e8c0c694ecbd1094b650dbc1e6"
+    },
+    "dp_vat_id.json": {
+        "hash": "6db4b54777e20b012595e2c7026ad1d5"
+    }
+}

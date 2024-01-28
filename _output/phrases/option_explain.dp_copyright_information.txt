@@ -1,0 +1,2 @@
+For important information about copyright from content.
+Following replacements are available: {cookieHelpUrl}, {imprintHelpUrl}, {privacyHelpUrl}, {tosUrl}, {contactUrl}, {boardTitle}, {boardUrl} and {cookiePrefix}.

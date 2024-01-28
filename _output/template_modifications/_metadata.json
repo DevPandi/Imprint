@@ -1,0 +1,17 @@
+{
+    "public/dp_PAGE_CONTAINER_imprint_link.json": {
+        "hash": "057295b955c5fafab79ef6a25b2a2edf"
+    },
+    "public/dp_help_page_cookies_use_option.json": {
+        "hash": "4cee10b97017f1133ecdfaa138ad01e9"
+    },
+    "public/dp_help_page_privacy_policy_captcha_included.json": {
+        "hash": "89ba9320de9ebb6b6ef8ff3c966fb9fe"
+    },
+    "public/dp_help_page_privacy_policy_use_option.json": {
+        "hash": "1ede3626a3691bb443e248cf2d224c20"
+    },
+    "public/ti_help_page_terms_use_option.json": {
+        "hash": "52b1b0615e0e60f0b92826cf9e75d5af"
+    }
+}

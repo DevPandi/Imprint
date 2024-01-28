@@ -1,0 +1,9 @@
+{
+    "template": "_help_page_privacy_policy",
+    "description": "Use options from [DevPandi] Imprint for privacy policy page.",
+    "execution_order": 10,
+    "enabled": true,
+    "action": "str_replace",
+    "find": "{{ phrase('privacy_policy_text', {'board_title': $xf.options.boardTitle, 'contactUrl': $xf.contactUrl, 'cookieHelp': link('help/cookies')}) }}",
+    "replace": "<xf:if is=\"$xf.options.dp_privacy_notice\">\n\t{{ $xf.options.dp_privacy_notice|dp_render }}\n\t<xf:else/>\n\t{{ phrase('privacy_policy_text', {'board_title': $xf.options.boardTitle, 'contactUrl': $xf.contactUrl, 'cookieHelp': link('help/cookies')}) }}\n</xf:if>"
+}

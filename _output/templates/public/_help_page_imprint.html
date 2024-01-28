@@ -1,0 +1,77 @@
+<h2>{{ phrase('dp_provider') }}</h2>
+<xf:if is="$xf.options.dp_tmg">
+	<h3>{{ phrase('dp_provider_tmg')}}</h3>
+</xf:if>
+<address>
+	{{ $xf.options.dp_name}}<br>
+	<xf:if is="$xf.options.db_name_addition">
+		{{ $xf.options.db_name_addition }}<br>
+	</xf:if>
+	{{ $xf.options.dp_address}}<br>
+	<xf:if is="$xf.options.dp_address_addition">
+		{{ $xf.options.dp_address_addition }}<br>
+	</xf:if>
+	{{ $xf.options.dp_postalcode}} {{ $xf.options.dp_city }}<br>
+	{{ $xf.options.dp_country}}
+</address>
+<h3>{{ phrase('dp_contact_details')}}</h3>
+<xf:if is="$xf.options.dp_email">
+	<xf:set var="$email" value="{{ $xf.options.dp_email }}" />
+<xf:else />
+	<xf:set var="$email" value="{{ $xf.contactEmailAddress }}" />
+</xf:if>
+<p>
+	<b>{{ phrase('dp_email') }}</b> <a href="mailto:{{ $email }}">{{ $email }}</a>
+</p>
+<xf:if is="$xf.options.dp_phone">
+	<p>
+		<b>{{ phrase('dp_contact_phone') }}</b> {{ $xf.options.dp_phone }}
+	</p>
+</xf:if>
+<xf:if is="$xf.options.dp_fax">
+	<p>
+		<b>{{ phrase('dp_contact_fax') }}</b> {{ $xf.options.dp_fax }}
+	</p>
+</xf:if>
+<xf:if is="$xf.options.dp_ceo || $xf.options.dp_vat_id  || $xf.options.dp_company_register">
+	<h2>{{ phrase('dp_company_info')}}</h2>
+	<xf:if is="$xf.options.dp_ceo">
+		<p>
+			<b>{{ phrase('dp_ceo') }}</b> {{ $xf.options.dp_ceo }}
+		</p>
+	</xf:if>
+	<xf:if is="$xf.options.dp_vat_id">
+		<p>
+			<b>{{ phrase('dp_vat_id') }}</b> {{ $xf.options.dp_vat_id }}
+		</p>
+	</xf:if>
+	<xf if is="$xf.options.dp_company_register">
+		<p>
+			<b>{{ phrase('dp_company_register') }}</b> {{ $xf.options.dp_company_register }}
+		</p>
+	</xf>
+</xf:if>
+<xf:if is="$xf.options.dp_editor.show">
+	<h2>{{ phrase('dp_chief_editor')}}</h2>
+	<p>{{ $xf.options.dp_editor.name}}</p>
+	<xf:if is="$xf.options.dp_editor_own_adress">
+		{{ $xf.options.dp_editor_adress}}<br>
+		<xf:if is="$xf.options.dp_editor_addition">
+			{{ $xf.options.dp_editor_addition }}<br>
+		</xf:if>
+	{{ $xf.options.dp_editor_postalcode}} {{ $xf.options.dp_editor_city }}<br>
+	{{ $xf.options.dp_editor_country}}
+	</xf:if>
+</xf:if>
+<xf:if is="$xf.options.dp_disclaimer_contents">
+	<h2>{{ phrase('dp_disclaimer_contents')}}</h2>
+	{{ $xf.options.dp_disclaimer_contents|dp_render }}
+</xf:if>
+<xf:if is="$xf.options.dp_disclaimer_links">
+	<h2>{{ phrase('dp_disclaimer_links')}}</h2>
+	{{ $xf.options.dp_disclaimer_links|dp_render }}
+</xf:if>
+<xf:if is="$xf.options.dp_copyright_information">
+	<h2>{{ phrase('dp_copyright_information')}}</h2>
+	{{ $xf.options.dp_copyright_information|dp_render }}
+</xf:if>

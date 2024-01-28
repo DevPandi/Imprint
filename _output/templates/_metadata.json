@@ -1,0 +1,27 @@
+{
+    "admin/dp_option_html_editor.html": {
+        "version_id": 1000033,
+        "version_string": "1.0.0 Beta 3",
+        "hash": "eedba81f70e71eec849e694062ee014e"
+    },
+    "admin/dp_option_html_editor_full_row.html": {
+        "version_id": 1000033,
+        "version_string": "1.0.0 Beta 3",
+        "hash": "ddbdf929b017ae3fe04edbdbd16dc139"
+    },
+    "admin/ti_option_html_editor.html": {
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "eedba81f70e71eec849e694062ee014e"
+    },
+    "admin/ti_option_html_editor_full_row.html": {
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "ddbdf929b017ae3fe04edbdbd16dc139"
+    },
+    "public/_help_page_imprint.html": {
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "b664accf8efba21d66254624de2117ab"
+    }
+}

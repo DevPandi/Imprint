@@ -1,0 +1,470 @@
+{
+    "dp_ceo.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "7cdd6cbe9cddd078ab53f0f354ba56c6"
+    },
+    "dp_chief_editor.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "13b819cc937a01da752978617c3e4ed6"
+    },
+    "dp_company_info.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "ef9e760b0f259f4e224fae4a995d0ffa"
+    },
+    "dp_company_register.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "aebbecf5515fe8ddfe19d1c38ad975d7"
+    },
+    "dp_contact_details.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "bbaff12800505b22a853e8b7f4eb6a22"
+    },
+    "dp_contact_fax.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "9810aa2b9f44401be4bf73188ef2b67d"
+    },
+    "dp_contact_phone.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "bcc254b55c4a1babdf1dcb82c207506b"
+    },
+    "dp_copyright_information.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "00ff6cb65975cb5036856052734543f1"
+    },
+    "dp_disclaimer_contents.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "0d5fe6e162bd020ca9934d54df44b7c2"
+    },
+    "dp_disclaimer_links.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "26c92cfee6b885ed54fa31f41b5ccb89"
+    },
+    "dp_editor_in_chief.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "fb97238fe6c9ba1e1f6f8649d562e2b3"
+    },
+    "dp_email.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "082e55a73f10496681c84231dc1c88f7"
+    },
+    "dp_imprint.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "e206d098296c1966e2d01130f9195744"
+    },
+    "dp_provider.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "27703c8f150ac4bb0a3a83a7857353af"
+    },
+    "dp_provider_tmg.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "62aa12b2eeaa5841d3e2982db82915a5"
+    },
+    "dp_vat_id.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "af257fcb3305405b588f3c3cc7123552"
+    },
+    "help_page_desc.imprint.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "2d7c7ce7efe90fd3ef0fa1a2e28199a8"
+    },
+    "help_page_title.imprint.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "e206d098296c1966e2d01130f9195744"
+    },
+    "option.db_name_addition.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "5c8ccd15b0cc7d7253103dfd4a82ec30"
+    },
+    "option.dp_address.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "dd7bf230fde8d4836917806aff6a6b27"
+    },
+    "option.dp_address_addition.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "32e20907c5faa0e386c554d5d0062f29"
+    },
+    "option.dp_captcha_included.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "78b583c617d31f9350db6d55377f73e1"
+    },
+    "option.dp_ceo.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "7cdd6cbe9cddd078ab53f0f354ba56c6"
+    },
+    "option.dp_city.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "57d056ed0984166336b7879c2af3657f"
+    },
+    "option.dp_company_register.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "aebbecf5515fe8ddfe19d1c38ad975d7"
+    },
+    "option.dp_cookie_notice.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "8c30a6ec07fc9eb81bd20b690b4a1ac0"
+    },
+    "option.dp_copyright_information.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "00ff6cb65975cb5036856052734543f1"
+    },
+    "option.dp_country.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "59716c97497eb9694541f7c3d37b1a4d"
+    },
+    "option.dp_disclaimer_contents.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "f1ec5b35655271240ec1c098f6662b80"
+    },
+    "option.dp_disclaimer_links.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "2185f7b33f3a4e11570164a91b089277"
+    },
+    "option.dp_editor.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "fb97238fe6c9ba1e1f6f8649d562e2b3"
+    },
+    "option.dp_editor_addition.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "32e20907c5faa0e386c554d5d0062f29"
+    },
+    "option.dp_editor_adress.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "062533fb1af5a2f09cfd09a78de85545"
+    },
+    "option.dp_editor_city.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "57d056ed0984166336b7879c2af3657f"
+    },
+    "option.dp_editor_county.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "59716c97497eb9694541f7c3d37b1a4d"
+    },
+    "option.dp_editor_own_adress.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "4e45e018b098cd12f9bef61bb309055e"
+    },
+    "option.dp_editor_postalcode.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "572ed696f21038e6cc6c86bb272a3222"
+    },
+    "option.dp_email.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "082e55a73f10496681c84231dc1c88f7"
+    },
+    "option.dp_fax.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "2725587162417ef2cebaa01427638a55"
+    },
+    "option.dp_name.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "49ee3087348e8d44e1feda1917443987"
+    },
+    "option.dp_phone.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "1f8261d17452a959e013666c5df45e07"
+    },
+    "option.dp_postalcode.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "25f75488c91cb6c3bab92672e479619f"
+    },
+    "option.dp_privacy_notice.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "82481e6ef4be1eea058da58eefb77d12"
+    },
+    "option.dp_tmg.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "89e2e5840f4698bda6cfc3aa9f1dc4cc"
+    },
+    "option.dp_tos.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "3b6c2b4caaf4f14f8d7feeddc4ac3f4d"
+    },
+    "option.dp_vat_id.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "af257fcb3305405b588f3c3cc7123552"
+    },
+    "option_explain.db_name_addition.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "491745962476a4b56947addc7a191304"
+    },
+    "option_explain.dp_address.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "ac0187b9479594c1a9ca3d0e7ce071cb"
+    },
+    "option_explain.dp_address_addition.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "6a08931a53013a7b88fb5609618f6872"
+    },
+    "option_explain.dp_captcha_included.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.dp_ceo.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "acd1538d7214a464d9741ab99da9ced2"
+    },
+    "option_explain.dp_city.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.dp_company_register.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "8617fb99e2d12ec131f52c814f192290"
+    },
+    "option_explain.dp_cookie_notice.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "a3cd8b03967cafca79bff5389df37d85"
+    },
+    "option_explain.dp_copyright_information.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "59a3f8a8d2920376fc7728e7360aa6de"
+    },
+    "option_explain.dp_country.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.dp_disclaimer_contents.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "d55c2802d0441a787c68768ecb651451"
+    },
+    "option_explain.dp_disclaimer_links.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "d30a84feb4bd3b8b632fd208d166571c"
+    },
+    "option_explain.dp_editor.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "dd990d6fc079e35cb734f3cc28ddd766"
+    },
+    "option_explain.dp_editor_addition.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.dp_editor_adress.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.dp_editor_city.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.dp_editor_county.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.dp_editor_own_adress.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.dp_editor_postalcode.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.dp_email.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "9679e3b9e91038538a958dbf2d741562"
+    },
+    "option_explain.dp_fax.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "b76c8af65e68394284d6a4025d780aed"
+    },
+    "option_explain.dp_name.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "2d110893a5afc8ef2f9a13d244307f28"
+    },
+    "option_explain.dp_phone.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "6c3eb70e2516d986279a69a87fd89af0"
+    },
+    "option_explain.dp_postalcode.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.dp_privacy_notice.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "da469b4c67ee533faf95e4f540717e5b"
+    },
+    "option_explain.dp_tmg.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "f48e9975e6334145c9bd29a009f30cee"
+    },
+    "option_explain.dp_tos.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "e5c8d79543bbcff12d91f0633a8d8930"
+    },
+    "option_explain.dp_vat_id.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_group.dp_cookie_gdpr.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "7bbba63d75ae349267c30c1be577501c"
+    },
+    "option_group.dp_imprint.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "b7ccf1f701767a71656076309fa41d55"
+    },
+    "option_group_description.dp_cookie_gdpr.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "7ee80a17a732d607848d60af701c9cd6"
+    },
+    "option_group_description.dp_imprint.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "6c086d93c93fd9880d7c0101fe536796"
+    }
+}
