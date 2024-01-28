@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="dp_ceo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Managing Director]]></phrase>
+  <phrase title="dp_chief_editor" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Responsible for content]]></phrase>
+  <phrase title="dp_company_info" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Company Information]]></phrase>
+  <phrase title="dp_company_register" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Commercial Register]]></phrase>
+  <phrase title="dp_contact_details" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Contact]]></phrase>
+  <phrase title="dp_contact_fax" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Fax]]></phrase>
+  <phrase title="dp_contact_phone" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Phone]]></phrase>
+  <phrase title="dp_copyright_information" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Copyright information]]></phrase>
+  <phrase title="dp_disclaimer_contents" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Disclaimer for contents]]></phrase>
+  <phrase title="dp_disclaimer_links" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Disclaimer for links]]></phrase>
+  <phrase title="dp_editor_in_chief" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Editor in chief]]></phrase>
+  <phrase title="dp_email" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[E-Mail]]></phrase>
+  <phrase title="dp_imprint" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Imprint]]></phrase>
+  <phrase title="dp_provider" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Provider]]></phrase>
+  <phrase title="dp_provider_tmg" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Information according to § 5 TMG]]></phrase>
+  <phrase title="dp_vat_id" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[VAT ID]]></phrase>
+  <phrase title="help_page_desc.imprint" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[All about the provider of the web page and other important information.]]></phrase>
+  <phrase title="help_page_title.imprint" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Imprint]]></phrase>
+  <phrase title="option.db_name_addition" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Name addition]]></phrase>
+  <phrase title="option.dp_address" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Address]]></phrase>
+  <phrase title="option.dp_address_addition" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Address addition]]></phrase>
+  <phrase title="option.dp_captcha_included" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Captcha privacy police is in option included.]]></phrase>
+  <phrase title="option.dp_ceo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Managing Director]]></phrase>
+  <phrase title="option.dp_city" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[City]]></phrase>
+  <phrase title="option.dp_company_register" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Commercial Register]]></phrase>
+  <phrase title="option.dp_cookie_notice" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Cookie notice]]></phrase>
+  <phrase title="option.dp_copyright_information" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Copyright information]]></phrase>
+  <phrase title="option.dp_country" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Country]]></phrase>
+  <phrase title="option.dp_disclaimer_contents" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Disclaimer (Content)]]></phrase>
+  <phrase title="option.dp_disclaimer_links" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Disclaimer (Links)]]></phrase>
+  <phrase title="option.dp_editor" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Editor in chief]]></phrase>
+  <phrase title="option.dp_editor_addition" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Address addition]]></phrase>
+  <phrase title="option.dp_editor_adress" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Adress]]></phrase>
+  <phrase title="option.dp_editor_city" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[City]]></phrase>
+  <phrase title="option.dp_editor_county" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Country]]></phrase>
+  <phrase title="option.dp_editor_own_adress" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Show editor adress]]></phrase>
+  <phrase title="option.dp_editor_postalcode" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Postal code]]></phrase>
+  <phrase title="option.dp_email" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[E-Mail]]></phrase>
+  <phrase title="option.dp_fax" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Fax number]]></phrase>
+  <phrase title="option.dp_name" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Name]]></phrase>
+  <phrase title="option.dp_phone" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Phone number]]></phrase>
+  <phrase title="option.dp_postalcode" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Postal Code]]></phrase>
+  <phrase title="option.dp_privacy_notice" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Privacy notice]]></phrase>
+  <phrase title="option.dp_tmg" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Use germal legal information]]></phrase>
+  <phrase title="option.dp_tos" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Terms of Service]]></phrase>
+  <phrase title="option.dp_vat_id" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[VAT ID]]></phrase>
+  <phrase title="option_explain.db_name_addition" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Can add a additional information for the name like <b>c/o</b>.]]></phrase>
+  <phrase title="option_explain.dp_address" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Your address. Please do not enter a P.O. Box, this makes you vulnerable if you address your offer to the EU, especially to users from Germany and Austria.]]></phrase>
+  <phrase title="option_explain.dp_address_addition" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Apartment number, floor or mail delivery information.]]></phrase>
+  <phrase title="option_explain.dp_captcha_included" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.dp_ceo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Managing director of the company.]]></phrase>
+  <phrase title="option_explain.dp_city" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.dp_company_register" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Authority with which the company is registered.]]></phrase>
+  <phrase title="option_explain.dp_cookie_notice" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Helps you to write a cookie information without editing language phrases. You can use <b>HTML</b> here.<br> Following replacements are available: <i>{cookieHelpUrl}</i>, <i>{imprintHelpUrl}</i>, <i>{privacyHelpUrl}</i>, <i>{tosUrl}</i>, <i>{contactUrl}</i>, <i>{boardTitle}</i>, <i>{boardUrl}</i> and <i>{cookiePrefix}</i>.]]></phrase>
+  <phrase title="option_explain.dp_copyright_information" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[For important information about copyright from content.
+Following replacements are available: {cookieHelpUrl}, {imprintHelpUrl}, {privacyHelpUrl}, {tosUrl}, {contactUrl}, {boardTitle}, {boardUrl} and {cookiePrefix}.]]></phrase>
+  <phrase title="option_explain.dp_country" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.dp_disclaimer_contents" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[For a disclaimer about content on your page. You can use HTML here.
+Following replacements are available: {cookieHelpUrl}, {imprintHelpUrl}, {privacyHelpUrl}, {tosUrl}, {contactUrl}, {boardTitle}, {boardUrl} and {cookiePrefix}.]]></phrase>
+  <phrase title="option_explain.dp_disclaimer_links" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[For a disclaimer about links on your page. You can use HTML here.
+Following replacements are available: {cookieHelpUrl}, {imprintHelpUrl}, {privacyHelpUrl}, {tosUrl}, {contactUrl}, {boardTitle}, {boardUrl} and {cookiePrefix}.]]></phrase>
+  <phrase title="option_explain.dp_editor" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Person who is the editorial director of your website.]]></phrase>
+  <phrase title="option_explain.dp_editor_addition" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.dp_editor_adress" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.dp_editor_city" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.dp_editor_county" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.dp_editor_own_adress" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.dp_editor_postalcode" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.dp_email" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Here you should specify an e-mail address to which you have access in any case. The reference to the contact form is not sufficient!]]></phrase>
+  <phrase title="option_explain.dp_fax" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Faxes seem antiquated today, but some government agencies as well as lawyers still like to use the fax because they do not consider e-mails to be legally secure. It is therefore recommended to get a fax service and to retrieve it regularly.]]></phrase>
+  <phrase title="option_explain.dp_name" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[The name of the provider. This can be your name or the name of your company. <small><i>Attention, currently the imprint is only usable for private individuals</i></small>.]]></phrase>
+  <phrase title="option_explain.dp_phone" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[It is not necessary to enter a telephone number, but this makes it easier for important inquiries to reach you. Especially some lawyers in Germany take advantage of it, if no phone number is given.]]></phrase>
+  <phrase title="option_explain.dp_postalcode" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.dp_privacy_notice" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Helps you to write a privacy notice without editing language phrases. You can use <b>HTML</b> here.<br> Following replacements are available: <i>{cookieHelpUrl}</i>, <i>{imprintHelpUrl}</i>, <i>{privacyHelpUrl}</i>, <i>{tosUrl}</i>, <i>{contactUrl}</i>, <i>{boardTitle}</i>, <i>{boardUrl}</i> and <i>{cookiePrefix}</i>.]]></phrase>
+  <phrase title="option_explain.dp_tmg" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Adds the note that all information is provided in accordance with § 5 TMG.]]></phrase>
+  <phrase title="option_explain.dp_tos" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Helps you to write a Terms of Service without editing language phrases. You can use <b>HTML</b> here.<br> Following replacements are available: <i>{cookieHelpUrl}</i>, <i>{imprintHelpUrl}</i>, <i>{privacyHelpUrl}</i>, <i>{tosUrl}</i>, <i>{contactUrl}</i>, <i>{boardTitle}</i>, <i>{boardUrl}</i> and <i>{cookiePrefix}</i>.]]></phrase>
+  <phrase title="option_explain.dp_vat_id" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[]]></phrase>
+  <phrase title="option_group.dp_cookie_gdpr" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[[DevPandi] Cookie & privacy notice fast access.]]></phrase>
+  <phrase title="option_group.dp_imprint" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[[DevPandi] Imprint]]></phrase>
+  <phrase title="option_group_description.dp_cookie_gdpr" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Fast access to change cookie information and privacy notice.]]></phrase>
+  <phrase title="option_group_description.dp_imprint" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Information for the imprint of your site.]]></phrase>
+</phrases>

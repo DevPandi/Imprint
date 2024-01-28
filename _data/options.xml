@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <option option_id="db_name_addition" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="dp_imprint" display_order="15"/>
+  </option>
+  <option option_id="dp_address" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="dp_imprint" display_order="100"/>
+  </option>
+  <option option_id="dp_address_addition" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="dp_imprint" display_order="110"/>
+  </option>
+  <option option_id="dp_captcha_included" edit_format="onoff" data_type="boolean" advanced="0">
+    <default_value>0</default_value>
+    <relation group_id="dp_cookie_gdpr" display_order="10"/>
+  </option>
+  <option option_id="dp_ceo" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="dp_imprint" display_order="300"/>
+  </option>
+  <option option_id="dp_city" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="dp_imprint" display_order="130"/>
+  </option>
+  <option option_id="dp_company_register" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="dp_imprint" display_order="310"/>
+  </option>
+  <option option_id="dp_cookie_notice" edit_format="template" data_type="string" advanced="0">
+    <default_value></default_value>
+    <edit_format_params>dp_option_html_editor_full_row</edit_format_params>
+    <relation group_id="dp_cookie_gdpr" display_order="200"/>
+  </option>
+  <option option_id="dp_copyright_information" edit_format="template" data_type="string" advanced="0">
+    <default_value></default_value>
+    <edit_format_params>dp_option_html_editor_full_row</edit_format_params>
+    <relation group_id="dp_imprint" display_order="520"/>
+  </option>
+  <option option_id="dp_country" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="dp_imprint" display_order="150"/>
+  </option>
+  <option option_id="dp_disclaimer_contents" edit_format="template" data_type="string" advanced="0">
+    <default_value></default_value>
+    <edit_format_params>dp_option_html_editor_full_row</edit_format_params>
+    <relation group_id="dp_imprint" display_order="500"/>
+  </option>
+  <option option_id="dp_disclaimer_links" edit_format="template" data_type="string" advanced="0">
+    <default_value></default_value>
+    <edit_format_params>dp_option_html_editor_full_row</edit_format_params>
+    <relation group_id="dp_imprint" display_order="510"/>
+  </option>
+  <option option_id="dp_editor" edit_format="onofftextbox" data_type="array" advanced="0">
+    <default_value>{"show":"0","name":""}</default_value>
+    <edit_format_params>onoff=show
+value=name
+placeholder={{ phrase('ti_chief_editor') }}</edit_format_params>
+    <sub_options>show
+name</sub_options>
+    <relation group_id="dp_imprint" display_order="400"/>
+  </option>
+  <option option_id="dp_editor_addition" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="dp_imprint" display_order="440"/>
+  </option>
+  <option option_id="dp_editor_adress" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="dp_imprint" display_order="430"/>
+  </option>
+  <option option_id="dp_editor_city" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="dp_imprint" display_order="450"/>
+  </option>
+  <option option_id="dp_editor_county" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="dp_imprint" display_order="470"/>
+  </option>
+  <option option_id="dp_editor_own_adress" edit_format="onoff" data_type="boolean" advanced="0">
+    <default_value>0</default_value>
+    <relation group_id="dp_imprint" display_order="410"/>
+  </option>
+  <option option_id="dp_editor_postalcode" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="dp_imprint" display_order="460"/>
+  </option>
+  <option option_id="dp_email" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="dp_imprint" display_order="200"/>
+  </option>
+  <option option_id="dp_fax" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="dp_imprint" display_order="220"/>
+  </option>
+  <option option_id="dp_name" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="dp_imprint" display_order="10"/>
+  </option>
+  <option option_id="dp_phone" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="dp_imprint" display_order="210"/>
+  </option>
+  <option option_id="dp_postalcode" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="dp_imprint" display_order="140"/>
+  </option>
+  <option option_id="dp_privacy_notice" edit_format="template" data_type="string" advanced="0">
+    <default_value></default_value>
+    <edit_format_params>dp_option_html_editor_full_row</edit_format_params>
+    <relation group_id="dp_cookie_gdpr" display_order="100"/>
+  </option>
+  <option option_id="dp_tmg" edit_format="onoff" data_type="boolean" advanced="0">
+    <default_value>0</default_value>
+    <relation group_id="dp_imprint" display_order="20"/>
+  </option>
+  <option option_id="dp_tos" edit_format="template" data_type="string" advanced="0">
+    <default_value></default_value>
+    <edit_format_params>dp_option_html_editor_full_row</edit_format_params>
+    <relation group_id="dp_cookie_gdpr" display_order="300"/>
+  </option>
+  <option option_id="dp_vat_id" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="dp_imprint" display_order="320"/>
+  </option>
+</options>

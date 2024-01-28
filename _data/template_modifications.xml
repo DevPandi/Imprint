@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template_modifications>
+  <modification type="public" template="PAGE_CONTAINER" modification_key="dp_PAGE_CONTAINER_imprint_link" description="Adds link to imprint in the footer menu." execution_order="10" enabled="1" action="str_replace">
+    <find><![CDATA[<xf:if is="$xf.privacyPolicyUrl">]]></find>
+    <replace><![CDATA[<xf:if is="$xf.helpPageCount">
+	<li><a href="{{ link('help/imprint') }}">{{ phrase('dp_imprint') }}</a></li>
+</xf:if>
+<xf:if is="$xf.privacyPolicyUrl">]]></replace>
+  </modification>
+  <modification type="public" template="_help_page_cookies" modification_key="dp_help_page_cookies_use_option" description="Use options from [DevPandi] Imprint for cookie help page." execution_order="10" enabled="1" action="str_replace">
+    <find><![CDATA[{{ phrase('help_cookies_description', {'cookiePrefix': $xf.cookie.prefix}) }}]]></find>
+    <replace><![CDATA[<xf:if is="$xf.options.dp_cookie_notice">
+	{{ $xf.options.dp_cookie_notice|dp_render }}
+<xf:else/>
+	{{ phrase('help_cookies_description', {'cookiePrefix': $xf.cookie.prefix}) }}
+</xf:if>]]></replace>
+  </modification>
+  <modification type="public" template="_help_page_privacy_policy" modification_key="dp_help_page_privacy_policy_captcha_included" description="Option in [DevPandi] Imprint deactivates captacha privacy text." execution_order="10" enabled="1" action="str_replace">
+    <find><![CDATA[<xf:if is="$captcha">]]></find>
+    <replace><![CDATA[<xf:if is="$captcha && !$xf.options.dp_captcha_included">]]></replace>
+  </modification>
+  <modification type="public" template="_help_page_privacy_policy" modification_key="dp_help_page_privacy_policy_use_option" description="Use options from [DevPandi] Imprint for privacy policy page." execution_order="10" enabled="1" action="str_replace">
+    <find><![CDATA[{{ phrase('privacy_policy_text', {'board_title': $xf.options.boardTitle, 'contactUrl': $xf.contactUrl, 'cookieHelp': link('help/cookies')}) }}]]></find>
+    <replace><![CDATA[<xf:if is="$xf.options.dp_privacy_notice">
+	{{ $xf.options.dp_privacy_notice|dp_render }}
+	<xf:else/>
+	{{ phrase('privacy_policy_text', {'board_title': $xf.options.boardTitle, 'contactUrl': $xf.contactUrl, 'cookieHelp': link('help/cookies')}) }}
+</xf:if>]]></replace>
+  </modification>
+  <modification type="public" template="_help_page_terms" modification_key="ti_help_page_terms_use_option" description="Use options from [DevPandi] Imprint for tos page." execution_order="10" enabled="1" action="str_replace">
+    <find><![CDATA[{{ phrase('terms_rules_text', {'age': $xf.options.registrationSetup.minimumAge ?: 13, 'contactUrl': $xf.contactUrl}) }}]]></find>
+    <replace><![CDATA[<xf:if is="$xf.options.dp_tos">
+	{{ $xf.options.dp_tos|dp_render }}
+	<xf:else/>
+	{{ phrase('terms_rules_text', {'age': $xf.options.registrationSetup.minimumAge ?: 13, 'contactUrl': $xf.contactUrl}) }}
+</xf:if>]]></replace>
+  </modification>
+</template_modifications>

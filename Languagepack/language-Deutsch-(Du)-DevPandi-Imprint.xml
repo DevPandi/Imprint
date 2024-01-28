@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Deutsch (Du)" date_format="d. M Y" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="," thousands_separator="." label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="de-DE" text_direction="LTR" user_selectable="1" addon_id="DevPandi/Imprint" base_version_id="1000031" export_version="2">
+  <phrase title="dp_ceo" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Geschäftsführer]]></phrase>
+  <phrase title="dp_chief_editor" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Redaktionelle Leitung]]></phrase>
+  <phrase title="dp_company_info" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Angaben zum Unternehmen]]></phrase>
+  <phrase title="dp_company_register" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Handelsregister]]></phrase>
+  <phrase title="dp_contact_details" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Kontaktinformationen]]></phrase>
+  <phrase title="dp_contact_fax" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Fax]]></phrase>
+  <phrase title="dp_contact_phone" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Telefon]]></phrase>
+  <phrase title="dp_copyright_information" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Hinweise zum Urheberrecht]]></phrase>
+  <phrase title="dp_disclaimer_contents" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Haftungshinweise für Inhalte]]></phrase>
+  <phrase title="dp_disclaimer_links" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Haftungshinweise für Links]]></phrase>
+  <phrase title="dp_editor_in_chief" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Chefredakteur]]></phrase>
+  <phrase title="dp_email" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[E-Mail]]></phrase>
+  <phrase title="dp_imprint" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Impressum]]></phrase>
+  <phrase title="dp_provider" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Betreiber]]></phrase>
+  <phrase title="dp_provider_tmg" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Angaben gemäß § 5 TMG]]></phrase>
+  <phrase title="dp_vat_id" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Umsatzsteuer-ID]]></phrase>
+  <phrase title="help_page_desc.imprint" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Alles über den Betreiber der Webseite und wichtige andere Informationen.]]></phrase>
+  <phrase title="help_page_title.imprint" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Impressum]]></phrase>
+  <phrase title="option.db_name_addition" addon_id="DevPandi/Imprint" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Namenszusatz]]></phrase>
+  <phrase title="option.dp_address" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Adresse]]></phrase>
+  <phrase title="option.dp_address_addition" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Adresszusatz]]></phrase>
+  <phrase title="option.dp_captcha_included" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Captcha Informationen sind im Text enthalten]]></phrase>
+  <phrase title="option.dp_ceo" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Geschäftsführer]]></phrase>
+  <phrase title="option.dp_city" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Stadt]]></phrase>
+  <phrase title="option.dp_company_register" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Handelsregister]]></phrase>
+  <phrase title="option.dp_cookie_notice" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Verwendung von Cookies]]></phrase>
+  <phrase title="option.dp_copyright_information" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Urheberrechtshinweise]]></phrase>
+  <phrase title="option.dp_country" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Land]]></phrase>
+  <phrase title="option.dp_disclaimer_contents" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Haftungshinweise für Inhalte]]></phrase>
+  <phrase title="option.dp_disclaimer_links" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Haftungshinweise für Links]]></phrase>
+  <phrase title="option.dp_editor" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Redaktionelle Leitung]]></phrase>
+  <phrase title="option.dp_editor_addition" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Adresszusatz]]></phrase>
+  <phrase title="option.dp_editor_adress" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Adresse]]></phrase>
+  <phrase title="option.dp_editor_city" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Stadt]]></phrase>
+  <phrase title="option.dp_editor_county" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Land]]></phrase>
+  <phrase title="option.dp_editor_own_adress" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Zeige gesonderte Anschrift]]></phrase>
+  <phrase title="option.dp_editor_postalcode" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Postleitzahl]]></phrase>
+  <phrase title="option.dp_email" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[E-Mail]]></phrase>
+  <phrase title="option.dp_fax" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Fax-Nummer]]></phrase>
+  <phrase title="option.dp_name" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Name]]></phrase>
+  <phrase title="option.dp_phone" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Telefon-Nummer]]></phrase>
+  <phrase title="option.dp_postalcode" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Postleitzahl]]></phrase>
+  <phrase title="option.dp_privacy_notice" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Datenschutzerklärung]]></phrase>
+  <phrase title="option.dp_tmg" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Zeige gesetzliche Informationen an]]></phrase>
+  <phrase title="option.dp_tos" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Nutzungsbedingungen]]></phrase>
+  <phrase title="option.dp_vat_id" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Umsatzsteuer-ID]]></phrase>
+  <phrase title="option_explain.db_name_addition" addon_id="DevPandi/Imprint" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ermöglicht es Zusätze zum Namen wie <b>c/o</b> zu ergänzen.]]></phrase>
+  <phrase title="option_explain.dp_address" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Deine Adresse. Benutze kein Postfach, besonders wenn du in Deutschland oder Österreich wohnst, da dich dies angreifbar macht.]]></phrase>
+  <phrase title="option_explain.dp_address_addition" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Wohnungsnummer, Stockwerksangaben oder andere Informationen, die zu deiner Adresse gehören.]]></phrase>
+  <phrase title="option_explain.dp_captcha_included" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Wenn du in der Datenschutzerklärung auch Angaben zum Captcha-Dienst machst, aktiviere diese Information, ansonsten werden die Angaben aus dem Sprachpaket verwendet.]]></phrase>
+  <phrase title="option_explain.dp_ceo" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Geschäftsführer, wenn die Seite von einer Firma betrieben wird.]]></phrase>
+  <phrase title="option_explain.dp_city" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="option_explain.dp_company_register" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Name des Amtes, bei dem die Firma registriert ist.]]></phrase>
+  <phrase title="option_explain.dp_cookie_notice" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Gibt dir die Möglichkeit einen eigenen Cookie-Hinweis zu nutzen, ohne das Sprachpaket zu bearbeiten. Zusätzlich stehen mehr Platzhalter zur Verfügung. Du kannst <b>HTML</b> nutzen.<br> Folgende Platzhalter stehen dir zur Verfügung: <i>{cookieHelpUrl}</i>, <i>{imprintHelpUrl}</i>, <i>{privacyHelpUrl}</i>, <i>{tosUrl}</i>, <i>{contactUrl}</i>, <i>{boardTitle}</i>, <i>{boardUrl}</i> und <i>{cookiePrefix}</i>.]]></phrase>
+  <phrase title="option_explain.dp_copyright_information" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Ermöglichtr es dir Hinweise zu den Urheberrechten zu machen. Du kannst <b>HTML</b> nutzen.<br> Folgende Platzhalter stehen dir zur Verfügung: <i>{cookieHelpUrl}</i>, <i>{imprintHelpUrl}</i>, <i>{privacyHelpUrl}</i>, <i>{tosUrl}</i>, <i>{contactUrl}</i>, <i>{boardTitle}</i>, <i>{boardUrl}</i> und <i>{cookiePrefix}</i>.]]></phrase>
+  <phrase title="option_explain.dp_country" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="option_explain.dp_disclaimer_contents" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Ermöglicht dir einen Haftungshinweis für Inhalte anzugeben. Du kannst <b>HTML</b> nutzen.<br> Folgende Platzhalter stehen dir zur Verfügung: <i>{cookieHelpUrl}</i>, <i>{imprintHelpUrl}</i>, <i>{privacyHelpUrl}</i>, <i>{tosUrl}</i>, <i>{contactUrl}</i>, <i>{boardTitle}</i>, <i>{boardUrl}</i> und <i>{cookiePrefix}</i>.]]></phrase>
+  <phrase title="option_explain.dp_disclaimer_links" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Ermöglicht es dir einen Haftungshinweis für Links anzugeben. Du kannst <b>HTML</b> nutzen.<br> Folgende Platzhalter stehen dir zur Verfügung: <i>{cookieHelpUrl}</i>, <i>{imprintHelpUrl}</i>, <i>{privacyHelpUrl}</i>, <i>{tosUrl}</i>, <i>{contactUrl}</i>, <i>{boardTitle}</i>, <i>{boardUrl}</i> und <i>{cookiePrefix}</i>.]]></phrase>
+  <phrase title="option_explain.dp_editor" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Die Person, die die redaktionelle Leitung der Seite hat.]]></phrase>
+  <phrase title="option_explain.dp_editor_addition" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="option_explain.dp_editor_adress" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="option_explain.dp_editor_city" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="option_explain.dp_editor_county" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="option_explain.dp_editor_own_adress" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="option_explain.dp_editor_postalcode" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="option_explain.dp_email" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Hier solltest du deine E-Mail-Adresse angeben, die du regelmäßig abrufst. Der Hinweis auf das Kontaktformular reicht in der EU nicht aus!]]></phrase>
+  <phrase title="option_explain.dp_fax" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Ein Fax ist heute durchaus antiquiert, jedoch kann es sinnvoll sein eine Fax-Nummer für Ämter, als auch Anwälte zu haben, da E-Mails nicht als sichere Transportweg angesehen werden.]]></phrase>
+  <phrase title="option_explain.dp_name" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Der Name des Seitenbetreibers. Entweder eine natürliche Person oder eine juristische.]]></phrase>
+  <phrase title="option_explain.dp_phone" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Es ist nicht notwendig eine Telefonnummer anzugeben. Es kann aber die Kontaktaufnahme mit dir vereinfachen. Besonders manche Anwälte nutzen es unter Umständen aus, wenn keine Telefonnummer angeben wurde.]]></phrase>
+  <phrase title="option_explain.dp_postalcode" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="option_explain.dp_privacy_notice" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Gibt dir die Möglichkeit eine eigene Datenschutzerklärung zu nutzen, ohne das Sprachpaket zu bearbeiten. Zusätzlich stehen mehr Platzhalter zur Verfügung. Du kannst <b>HTML</b> nutzen.<br> Folgende Platzhalter stehen dir zur Verfügung: <i>{cookieHelpUrl}</i>, <i>{imprintHelpUrl}</i>, <i>{privacyHelpUrl}</i>, <i>{tosUrl}</i>, <i>{contactUrl}</i>, <i>{boardTitle}</i>, <i>{boardUrl}</i> und <i>{cookiePrefix}</i>.]]></phrase>
+  <phrase title="option_explain.dp_tmg" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Fügt den Hinweis hinzu, dass die Angaben nach § 5 TMG erstellt wurden. Diese Anzeige ist nicht notwendig und kann unter Umständen sogar kontraproduktiv sein, da ab diesem Zeitpunkt bei Änderungen immer auf die richtigen Paragrafen geachtet werden muss. ]]></phrase>
+  <phrase title="option_explain.dp_tos" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Gibt dir die Möglichkeit eine eigene Nutzungsbedingung zu nutzen, ohne das Sprachpaket zu bearbeiten. Zusätzlich stehen mehr Platzhalter zur Verfügung. Du kannst <b>HTML</b> nutzen.<br> Folgende Platzhalter stehen dir zur Verfügung: <i>{cookieHelpUrl}</i>, <i>{imprintHelpUrl}</i>, <i>{privacyHelpUrl}</i>, <i>{tosUrl}</i>, <i>{contactUrl}</i>, <i>{boardTitle}</i>, <i>{boardUrl}</i> und <i>{cookiePrefix}</i>.]]></phrase>
+  <phrase title="option_explain.dp_vat_id" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="option_group.dp_cookie_gdpr" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[[DevPandi] Schnellzugriff auf Datenschutzerklärung, Nutzungsbedingung und Cookie-Hinweis]]></phrase>
+  <phrase title="option_group.dp_imprint" addon_id="DevPandi/Imprint" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[[DevPandi] Impressum]]></phrase>
+  <phrase title="option_group_description.dp_cookie_gdpr" addon_id="DevPandi/Imprint" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Ein schneller Zugriff um wichtige Rechtstexte deines Forums anzupassen.]]></phrase>
+  <phrase title="option_group_description.dp_imprint" addon_id="DevPandi/Imprint" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Daten für das Impressum]]></phrase>
+</language>

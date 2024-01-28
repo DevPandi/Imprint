@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<option_groups>
+  <group group_id="dp_cookie_gdpr" icon="fa-file-contract" display_order="22" debug_only="0"/>
+  <group group_id="dp_imprint" icon="fa-id-card" display_order="21" debug_only="0"/>
+</option_groups>
