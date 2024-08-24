@@ -16,8 +16,26 @@
 </xf:if>]]></replace>
   </modification>
   <modification type="public" template="_help_page_privacy_policy" modification_key="dp_help_page_privacy_policy_captcha_included" description="Option in [DevPandi] Imprint deactivates captacha privacy text." execution_order="10" enabled="1" action="str_replace">
-    <find><![CDATA[<xf:if is="$captcha">]]></find>
-    <replace><![CDATA[<xf:if is="$captcha && !$xf.options.dp_captcha_included">]]></replace>
+    <find><![CDATA[<!--[XF:captcha_after_policy_text]-->
+
+<xf:if is="$captcha && $xf.options.includeCaptchaPrivacyPolicy">
+	<xf:if contentcheck="true">
+		<h2>{{ phrase('captcha_privacy_policy') }}</h2>
+		<xf:contentcheck>{$captcha.getPrivacyPolicy()}</xf:contentcheck>
+	</xf:if>
+</xf:if>
+
+<!--[XF:captcha_after_captcha]-->]]></find>
+    <replace><![CDATA[<!--[XF:captcha_after_policy_text]-->
+<xf:if is="!$xf.options.dp_captcha_included">
+	<xf:if is="$captcha && $xf.options.includeCaptchaPrivacyPolicy">
+		<xf:if contentcheck="true">
+			<h2>{{ phrase('captcha_privacy_policy') }}</h2>
+			<xf:contentcheck>{$captcha.getPrivacyPolicy()}</xf:contentcheck>
+		</xf:if>
+	</xf:if>
+</xf:if>
+<!--[XF:captcha_after_captcha]-->]]></replace>
   </modification>
   <modification type="public" template="_help_page_privacy_policy" modification_key="dp_help_page_privacy_policy_use_option" description="Use options from [DevPandi] Imprint for privacy policy page." execution_order="10" enabled="1" action="str_replace">
     <find><![CDATA[{{ phrase('privacy_policy_text', {'board_title': $xf.options.boardTitle, 'contactUrl': $xf.contactUrl, 'cookieHelp': link('help/cookies')}) }}]]></find>

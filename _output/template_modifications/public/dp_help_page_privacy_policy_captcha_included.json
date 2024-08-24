@@ -4,6 +4,6 @@
     "execution_order": 10,
     "enabled": true,
     "action": "str_replace",
-    "find": "<xf:if is=\"$captcha\">",
-    "replace": "<xf:if is=\"$captcha && !$xf.options.dp_captcha_included\">"
+    "find": "<!--[XF:captcha_after_policy_text]-->\n\n<xf:if is=\"$captcha && $xf.options.includeCaptchaPrivacyPolicy\">\n\t<xf:if contentcheck=\"true\">\n\t\t<h2>{{ phrase('captcha_privacy_policy') }}</h2>\n\t\t<xf:contentcheck>{$captcha.getPrivacyPolicy()}</xf:contentcheck>\n\t</xf:if>\n</xf:if>\n\n<!--[XF:captcha_after_captcha]-->",
+    "replace": "<!--[XF:captcha_after_policy_text]-->\n<xf:if is=\"!$xf.options.dp_captcha_included\">\n\t<xf:if is=\"$captcha && $xf.options.includeCaptchaPrivacyPolicy\">\n\t\t<xf:if contentcheck=\"true\">\n\t\t\t<h2>{{ phrase('captcha_privacy_policy') }}</h2>\n\t\t\t<xf:contentcheck>{$captcha.getPrivacyPolicy()}</xf:contentcheck>\n\t\t</xf:if>\n\t</xf:if>\n</xf:if>\n<!--[XF:captcha_after_captcha]-->"
 }
